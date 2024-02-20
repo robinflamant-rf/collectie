@@ -1,0 +1,1917 @@
+{
+    "tags": [
+        {
+            "name": "",
+            "slug": "",
+            "hidden": false,
+            "tags": [
+                {
+                    "id": 1,
+                    "name": "Tag 1",
+                    "slug": "tag-1",
+                    "hidden": false
+                },
+                {
+                    "id": 2,
+                    "name": "Tag 2",
+                    "slug": "tag-2",
+                    "hidden": false
+                }
+            ]
+        },
+        {
+            "name": "Taggroep 1",
+            "slug": "taggroep-1",
+            "hidden": false,
+            "tags": [
+                {
+                    "id": 3,
+                    "name": "Tag 1-1",
+                    "slug": "tag-1-1",
+                    "hidden": false
+                },
+                {
+                    "id": 4,
+                    "name": "Tag 1-2",
+                    "slug": "tag-1-2",
+                    "hidden": false
+                }
+            ]
+        },
+        {
+            "name": "Taggroep 2",
+            "slug": "taggroep-2",
+            "hidden": false,
+            "tags": [
+                {
+                    "id": 5,
+                    "name": "Tag 2-1",
+                    "slug": "tag-2-1",
+                    "hidden": false
+                },
+                {
+                    "id": 6,
+                    "name": "Tag 2-2",
+                    "slug": "tag-2-2",
+                    "hidden": false
+                }
+            ]
+        }
+    ],
+    "items": [
+        {
+            "name": "Item 1",
+            "slug": "item-1",
+            "href": "https:\/\/www.example.com\/item-1\/",
+            "target": "_blank",
+            "aria-label": "Item 1",
+            "meta-title": "Item 1",
+            "meta-description": "",
+            "meta-keywords": "",
+            "show-from": "2024-02-16 00:00:00",
+            "hide-from": "2024-03-16 00:00:00",
+            "tags": [
+                1,
+                3,
+                5
+            ],
+            "fields": {
+                "unit-naam": {
+                    "value": "Item 1"
+                },
+                "status": {
+                    "value": "Item 1"
+                },
+                "content-media": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "item-subheading": {
+                    "value": "Item 1"
+                },
+                "item-hoofd-tekst": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "alternatieve-bekijk-button": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-actie-button": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "content-icoon-2": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-3": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-4": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-5": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-6": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-7": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-8": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-9": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-10": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-11": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-12": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-13": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-14": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-15": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-16": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-17": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-18": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-19": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-20": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-21": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-22": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-23": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-24": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-25": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-26": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-27": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-28": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-29": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-30": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-31": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-32": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-33": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-34": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-35": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-36": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-37": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-38": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-39": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-40": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-41": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-42": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-43": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-44": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon-45": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "item-heading": {
+                    "value": "Item 1"
+                },
+                "item-heading-2": {
+                    "value": "Item 1"
+                },
+                "item-heading-3": {
+                    "value": "Item 1"
+                },
+                "item-heading-4": {
+                    "value": "Item 1"
+                },
+                "item-heading-5": {
+                    "value": "Item 1"
+                },
+                "item-heading-6": {
+                    "value": "Item 1"
+                },
+                "item-heading-7": {
+                    "value": "Item 1"
+                },
+                "item-heading-8": {
+                    "value": "Item 1"
+                },
+                "item-heading-9": {
+                    "value": "Item 1"
+                },
+                "item-heading-10": {
+                    "value": "Item 1"
+                },
+                "item-heading-11": {
+                    "value": "Item 1"
+                },
+                "item-heading-12": {
+                    "value": "Item 1"
+                },
+                "item-heading-13": {
+                    "value": "Item 1"
+                },
+                "item-heading-14": {
+                    "value": "Item 1"
+                },
+                "item-heading-15": {
+                    "value": "Item 1"
+                },
+                "item-heading-16": {
+                    "value": "Item 1"
+                },
+                "item-heading-17": {
+                    "value": "Item 1"
+                },
+                "item-heading-18": {
+                    "value": "Item 1"
+                },
+                "item-heading-19": {
+                    "value": "Item 1"
+                },
+                "item-heading-20": {
+                    "value": "Item 1"
+                },
+                "item-heading-21": {
+                    "value": "Item 1"
+                },
+                "item-heading-22": {
+                    "value": "Item 1"
+                },
+                "item-heading-23": {
+                    "value": "Item 1"
+                },
+                "item-heading-24": {
+                    "value": "Item 1"
+                },
+                "item-heading-25": {
+                    "value": "Item 1"
+                },
+                "item-heading-26": {
+                    "value": "Item 1"
+                },
+                "item-heading-27": {
+                    "value": "Item 1"
+                },
+                "item-heading-28": {
+                    "value": "Item 1"
+                },
+                "item-heading-29": {
+                    "value": "Item 1"
+                },
+                "item-heading-30": {
+                    "value": "Item 1"
+                },
+                "item-heading-31": {
+                    "value": "Item 1"
+                },
+                "item-heading-32": {
+                    "value": "Item 1"
+                },
+                "item-heading-33": {
+                    "value": "Item 1"
+                },
+                "item-heading-34": {
+                    "value": "Item 1"
+                },
+                "item-heading-35": {
+                    "value": "Item 1"
+                },
+                "item-heading-36": {
+                    "value": "Item 1"
+                },
+                "item-heading-37": {
+                    "value": "Item 1"
+                },
+                "item-heading-38": {
+                    "value": "Item 1"
+                },
+                "item-heading-39": {
+                    "value": "Item 1"
+                },
+                "item-heading-40": {
+                    "value": "Item 1"
+                },
+                "item-heading-41": {
+                    "value": "Item 1"
+                },
+                "item-heading-42": {
+                    "value": "Item 1"
+                },
+                "item-subheading-2": {
+                    "value": "Item 1"
+                },
+                "item-subheading-3": {
+                    "value": "Item 1"
+                },
+                "item-subheading-4": {
+                    "value": "Item 1"
+                },
+                "item-subheading-5": {
+                    "value": "Item 1"
+                },
+                "item-subheading-6": {
+                    "value": "Item 1"
+                },
+                "item-subheading-7": {
+                    "value": "Item 1"
+                },
+                "item-subheading-8": {
+                    "value": "Item 1"
+                },
+                "item-subheading-9": {
+                    "value": "Item 1"
+                },
+                "item-subheading-10": {
+                    "value": "Item 1"
+                },
+                "item-subheading-11": {
+                    "value": "Item 1"
+                },
+                "item-subheading-12": {
+                    "value": "Item 1"
+                },
+                "item-subheading-13": {
+                    "value": "Item 1"
+                },
+                "item-subheading-14": {
+                    "value": "Item 1"
+                },
+                "item-subheading-15": {
+                    "value": "Item 1"
+                },
+                "item-subheading-16": {
+                    "value": "Item 1"
+                },
+                "item-subheading-17": {
+                    "value": "Item 1"
+                },
+                "item-subheading-18": {
+                    "value": "Item 1"
+                },
+                "item-subheading-19": {
+                    "value": "Item 1"
+                },
+                "item-subheading-20": {
+                    "value": "Item 1"
+                },
+                "item-subheading-21": {
+                    "value": "Item 1"
+                },
+                "item-subheading-22": {
+                    "value": "Item 1"
+                },
+                "item-subheading-23": {
+                    "value": "Item 1"
+                },
+                "item-subheading-24": {
+                    "value": "Item 1"
+                },
+                "item-subheading-25": {
+                    "value": "Item 1"
+                },
+                "item-subheading-26": {
+                    "value": "Item 1"
+                },
+                "item-subheading-27": {
+                    "value": "Item 1"
+                },
+                "item-subheading-28": {
+                    "value": "Item 1"
+                },
+                "item-subheading-29": {
+                    "value": "Item 1"
+                },
+                "item-subheading-30": {
+                    "value": "Item 1"
+                },
+                "item-subheading-31": {
+                    "value": "Item 1"
+                },
+                "item-subheading-32": {
+                    "value": "Item 1"
+                },
+                "item-subheading-33": {
+                    "value": "Item 1"
+                },
+                "item-subheading-34": {
+                    "value": "Item 1"
+                },
+                "item-subheading-35": {
+                    "value": "Item 1"
+                },
+                "item-subheading-36": {
+                    "value": "Item 1"
+                },
+                "item-subheading-37": {
+                    "value": "Item 1"
+                },
+                "item-subheading-38": {
+                    "value": "Item 1"
+                },
+                "item-subheading-39": {
+                    "value": "Item 1"
+                },
+                "item-subheading-40": {
+                    "value": "Item 1"
+                },
+                "item-subheading-41": {
+                    "value": "Item 1"
+                },
+                "item-subheading-42": {
+                    "value": "Item 1"
+                },
+                "item-subheading-43": {
+                    "value": "Item 1"
+                },
+                "item-subheading-44": {
+                    "value": "Item 1"
+                },
+                "item-subheading-45": {
+                    "value": "Item 1"
+                },
+                "item-subheading-46": {
+                    "value": "Item 1"
+                },
+                "item-subheading-47": {
+                    "value": "Item 1"
+                },
+                "item-subheading-48": {
+                    "value": "Item 1"
+                },
+                "item-subheading-49": {
+                    "value": "Item 1"
+                },
+                "item-subheading-50": {
+                    "value": "Item 1"
+                },
+                "item-subheading-51": {
+                    "value": "Item 1"
+                },
+                "item-subheading-52": {
+                    "value": "Item 1"
+                },
+                "item-subheading-53": {
+                    "value": "Item 1"
+                },
+                "item-subheading-54": {
+                    "value": "Item 1"
+                },
+                "item-subheading-55": {
+                    "value": "Item 1"
+                },
+                "item-subheading-56": {
+                    "value": "Item 1"
+                },
+                "item-subheading-57": {
+                    "value": "Item 1"
+                },
+                "item-subheading-58": {
+                    "value": "Item 1"
+                },
+                "item-subheading-59": {
+                    "value": "Item 1"
+                },
+                "item-subheading-60": {
+                    "value": "Item 1"
+                },
+                "item-subheading-61": {
+                    "value": "Item 1"
+                },
+                "item-subheading-62": {
+                    "value": "Item 1"
+                },
+                "item-subheading-63": {
+                    "value": "Item 1"
+                },
+                "item-subheading-64": {
+                    "value": "Item 1"
+                },
+                "item-subheading-65": {
+                    "value": "Item 1"
+                },
+                "item-subheading-66": {
+                    "value": "Item 1"
+                },
+                "item-subheading-67": {
+                    "value": "Item 1"
+                },
+                "item-subheading-68": {
+                    "value": "Item 1"
+                },
+                "item-subheading-69": {
+                    "value": "Item 1"
+                },
+                "item-subheading-70": {
+                    "value": "Item 1"
+                },
+                "item-subheading-71": {
+                    "value": "Item 1"
+                },
+                "item-subheading-72": {
+                    "value": "Item 1"
+                },
+                "item-subheading-73": {
+                    "value": "Item 1"
+                },
+                "item-subheading-74": {
+                    "value": "Item 1"
+                },
+                "item-subheading-75": {
+                    "value": "Item 1"
+                },
+                "item-subheading-76": {
+                    "value": "Item 1"
+                },
+                "item-subheading-77": {
+                    "value": "Item 1"
+                },
+                "item-subheading-78": {
+                    "value": "Item 1"
+                },
+                "item-subheading-79": {
+                    "value": "Item 1"
+                },
+                "item-subheading-80": {
+                    "value": "Item 1"
+                },
+                "item-subheading-81": {
+                    "value": "Item 1"
+                },
+                "item-subheading-82": {
+                    "value": "Item 1"
+                },
+                "item-subheading-83": {
+                    "value": "Item 1"
+                },
+                "item-subheading-84": {
+                    "value": "Item 1"
+                },
+                "item-subheading-85": {
+                    "value": "Item 1"
+                },
+                "item-subheading-86": {
+                    "value": "Item 1"
+                },
+                "item-subheading-87": {
+                    "value": "Item 1"
+                },
+                "item-subheading-88": {
+                    "value": "Item 1"
+                },
+                "item-subheading-89": {
+                    "value": "Item 1"
+                },
+                "item-subheading-90": {
+                    "value": "Item 1"
+                },
+                "item-subheading-91": {
+                    "value": "Item 1"
+                },
+                "item-hoofd-tekst-2": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-3": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-4": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-5": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-6": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-7": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-8": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-9": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-10": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-11": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-12": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-13": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-14": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-15": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-16": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-17": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-18": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-19": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-20": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-21": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-22": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-23": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-24": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-25": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-26": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-27": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-28": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-29": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-30": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-31": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-32": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-33": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-34": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-35": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-36": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-37": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-38": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-39": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-40": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-41": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-42": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-43": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-44": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-45": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "alternatieve-bekijk-button-2": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-3": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-4": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-5": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-6": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-7": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-8": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-9": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-10": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-11": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-12": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-13": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-14": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-15": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-16": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-17": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-18": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-19": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-20": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-21": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-22": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-23": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-24": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-25": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-26": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-27": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-28": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-29": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-30": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-31": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-32": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-33": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-34": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-35": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-36": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-37": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-38": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-39": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-40": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-41": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-42": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-43": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-bekijk-button-44": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-actie-button-2": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                }
+            }
+        },
+        {
+            "name": "Item 2",
+            "slug": "item-2",
+            "href": "https:\/\/www.example.com\/item-2\/",
+            "target": "_blank",
+            "aria-label": "Item 2",
+            "meta-title": "Item 2",
+            "meta-description": "",
+            "meta-keywords": "",
+            "show-from": "2024-02-16 00:00:00",
+            "hide-from": "2024-03-16 00:00:00",
+            "tags": [
+                2,
+                4,
+                6
+            ],
+            "fields": {
+                "unit-naam": {
+                    "value": "Item 2"
+                },
+                "status": {
+                    "value": "Item 2"
+                },
+                "content-media": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-2.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-2.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "item-subheading": {
+                    "value": "Item 2"
+                },
+                "item-hoofd-tekst": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "alternatieve-bekijk-button": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                
+                "item-heading": {
+                    "value": "Item 2"
+                },
+                "item-heading-2": {
+                    "value": "Item 2"
+                },
+                "item-heading-3": {
+                    "value": "Item 2"
+                },
+                "item-heading-4": {
+                    "value": "Item 2"
+                },
+                "item-heading-5": {
+                    "value": "Item 2"
+                },
+                "item-heading-6": {
+                    "value": "Item 2"
+                },
+                "item-hoofd-tekst-2": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-3": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-4": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-5": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                
+                "alternatieve-bekijk-button-2": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-3": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-4": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-5": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-6": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-7": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-8": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-9": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-10": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-11": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-12": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-13": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-14": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-15": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-16": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-17": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-18": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-19": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-20": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-21": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-22": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-23": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-24": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-25": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-26": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-27": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-28": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-29": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-30": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-31": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-32": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-33": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-34": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-35": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-36": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-37": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-38": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-39": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-40": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-41": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-42": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-43": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-bekijk-button-44": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-2": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-3": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-4": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-5": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-6": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-7": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-8": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-9": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-10": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-11": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-12": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-13": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-14": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-15": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-16": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-17": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-18": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-19": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-20": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-21": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-22": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-23": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-24": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-25": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-26": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-27": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-28": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-29": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-30": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-31": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-32": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-33": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-34": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-35": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-36": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-37": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-38": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-39": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-40": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-41": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-42": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-43": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-44": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-45": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                },
+                "alternatieve-actie-button-46": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-2\/",
+                        "target": "_blank",
+                        "aria-label": "Item 2"
+                    }
+                }
+            }
+        }
+    ]
+}
