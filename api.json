@@ -60,7 +60,7 @@
     ],
     "items": [
         {
-            "name": "Raak me aan",
+            "name": "unit - 1",
             "slug": "item-1",
             "href": "https:\/\/www.example.com\/item-1\/",
             "target": "_blank",
@@ -1177,7 +1177,7 @@
                 },
                 
                 "item-heading": {
-                    "value": "Item 2"
+                    "value": "Dit is homo muziek"
                 },
                 "item-heading-2": {
                     "value": "Item 2"
