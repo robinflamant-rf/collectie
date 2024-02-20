@@ -60,7 +60,7 @@
     ],
     "items": [
         {
-            "name": "unit - 1",
+            "name": "Item 1",
             "slug": "item-1",
             "href": "https:\/\/www.example.com\/item-1\/",
             "target": "_blank",
@@ -77,7 +77,7 @@
             ],
             "fields": {
                 "unit-naam": {
-                    "value": "kamer plant"
+                    "value": "Item 1"
                 },
                 "status": {
                     "value": "Item 1"
@@ -110,19 +110,19 @@
                         "aria-label": "Item 1"
                     }
                 },
-                "content-icoon-2": {
-                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
-                },
-                
                 "item-heading": {
-                    "value": "werkt het al of nie?"
+                    "value": "Item 1"
                 },
-                "item-heading-2": {
+                "item-subheading-2": {
                     "value": "Item 1"
                 },
                 "item-hoofd-tekst-2": {
                     "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
                 },
+                "item-hoofd-tekst-3": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                
                 "alternatieve-bekijk-button-2": {
                     "value": "Lees meer",
                     "attrs": {
@@ -130,17 +130,25 @@
                         "target": "_blank",
                         "aria-label": "Item 1"
                     }
-                }
+                },
+                
+                "alternatieve-actie-button-2": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
                 }
             }
         },
         {
-            "name": "unit - 1",
-            "slug": "item-1",
+            "name": "Item 2",
+            "slug": "item-2",
             "href": "https:\/\/www.example.com\/item-1\/",
             "target": "_blank",
-            "aria-label": "Item 1",
-            "meta-title": "Item 1",
+            "aria-label": "Item 2",
+            "meta-title": "Item 2",
             "meta-description": "",
             "meta-keywords": "",
             "show-from": "2024-02-16 00:00:00",
@@ -152,7 +160,7 @@
             ],
             "fields": {
                 "unit-naam": {
-                    "value": "kamer plant"
+                    "value": "Item 1"
                 },
                 "status": {
                     "value": "Item 1"
@@ -167,7 +175,7 @@
                     "value": "Item 1"
                 },
                 "item-hoofd-tekst": {
-                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                    "value": "<p>Item 2 tekst, is dat lekker of niet.<\/p>"
                 },
                 "alternatieve-bekijk-button": {
                     "value": "Lees meer",
@@ -185,19 +193,19 @@
                         "aria-label": "Item 1"
                     }
                 },
-                "content-icoon-2": {
-                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
-                },
-                
                 "item-heading": {
-                    "value": "werkt het al of nie?"
+                    "value": "Item 1"
                 },
-                "item-heading-2": {
+                "item-subheading-2": {
                     "value": "Item 1"
                 },
                 "item-hoofd-tekst-2": {
                     "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
                 },
+                "item-hoofd-tekst-3": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                
                 "alternatieve-bekijk-button-2": {
                     "value": "Lees meer",
                     "attrs": {
@@ -205,13 +213,101 @@
                         "target": "_blank",
                         "aria-label": "Item 1"
                     }
-                }
+                },
+                
+                "alternatieve-actie-button-2": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
                 }
             }
         },
-        
+        {
+            "name": "Item 3",
+            "slug": "item-3",
+            "href": "https:\/\/www.example.com\/item-1\/",
+            "target": "_blank",
+            "aria-label": "Item 3",
+            "meta-title": "Item 3",
+            "meta-description": "",
+            "meta-keywords": "",
+            "show-from": "2024-02-16 00:00:00",
+            "hide-from": "2024-03-16 00:00:00",
+            "tags": [
+                1,
+                3,
+                5
+            ],
+            "fields": {
+                "unit-naam": {
+                    "value": "Item 1"
+                },
+                "status": {
+                    "value": "Item 1"
+                },
+                "content-media": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "content-icoon": {
+                    "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
+                },
+                "item-subheading": {
+                    "value": "Item 1"
+                },
+                "item-hoofd-tekst": {
+                    "value": "<p>Item 3 tekst....<\/p>"
+                },
+                "alternatieve-bekijk-button": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "alternatieve-actie-button": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                "item-heading": {
+                    "value": "Item 1"
+                },
+                "item-subheading-2": {
+                    "value": "Item 1"
+                },
+                "item-hoofd-tekst-2": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                "item-hoofd-tekst-3": {
+                    "value": "<p>Lorem ipsum dolor sit amet, consectetur adipis cin elit. Nunc purus libero, interdum sed blandit acp retium facilisis turpis. Donec dictum neque veloran tristique egestas nulla mollis dui lorem dolor.<\/p>"
+                },
+                
+                "alternatieve-bekijk-button-2": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
+                },
+                
+                "alternatieve-actie-button-2": {
+                    "value": "Lees meer",
+                    "attrs": {
+                        "href": "https:\/\/www.example.com\/item-1\/",
+                        "target": "_blank",
+                        "aria-label": "Item 1"
+                    }
                 }
             }
         }
+       
     ]
 }
