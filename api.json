@@ -87,7 +87,7 @@
                 "item-hoofd-tekst": {
                     "value": "<p>In Land van Essche komen 2 vrijstaande laanwoningen in de jaren 30 stijl. De schitterende woningen zijn 6,5 meter breed en bieden een zee aan leefruimte, zowel in huis als rondom de woning. Kom binnen via de overdekte zijentree. In de grote hal is er ruimte voor een garderobe onder de open trap.<\/p>"
                 },
-                "alternatieve-actie-button-2": {
+                "alternatieve-bekijk-button": {
                     "value": "Bekijk woningtype",
                     "attrs": {
                         "href": "https:\/\/www.example.com\/item-1\/",
