@@ -106,7 +106,7 @@
                 "content-icoon-2": {
                     "value": "<img src=\"https:\/\/www.example.com\/afbeelding-1.jpg\" alt=\"Afbeelding 1\">"
                 },
-                "item-heading": {
+                "item-heading-1 Project_UUId": {
                     "value": "Item 1"
                 },
                 "item-heading-2": {
